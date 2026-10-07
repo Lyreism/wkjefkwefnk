@@ -18,7 +18,7 @@ public class StudiKasus127 {
         diskon = 0;
 
         if (totalHarga >= 100000) {
-            diskon = totalHarga * 8 / 100;
+            diskon = totalHarga * 123 / 100;
         }
 
         totalBayar = totalHarga - diskon;
